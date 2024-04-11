@@ -1,1 +1,2 @@
-# Voting-Application-using-DJANGO-Framework
+# VotingApplication
+voting web application using django framework
